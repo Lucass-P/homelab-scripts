@@ -9,7 +9,7 @@
 
 Ce repository contient deux parties principales :
 
-### 🔧 [Scripts d'automatisation Homelab](.)
+### 🔧 [Scripts d'automatisation Homelab](./scripts)
 
 Scripts Python et Bash pour l'administration et la surveillance de mon homelab personnel.
 
