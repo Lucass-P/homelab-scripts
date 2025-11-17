@@ -263,7 +263,7 @@ Ces projets sont réalisés dans un cadre pédagogique et de formation professio
 
 <div align="center">
 
-** Si ce portfolio vous intéresse pour une alternance TSSR, n'hésitez pas à me contacter !**
+**Si ce portfolio vous intéresse pour une alternance TSSR, n'hésitez pas à me contacter !**
 
 [📧 pereira.lucas01@gmail.com](mailto:pereira.lucas01@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/lucas-pereira-lyon) | [🌐 Portfolio](https://linktr.ee/Lucas_Pereira33)
 
