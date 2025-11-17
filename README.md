@@ -24,10 +24,11 @@ Scripts Python et Bash pour l'administration et la surveillance de mon homelab p
 
 Portfolio de 4 projets techniques réalisés dans le cadre de ma formation TSSR avec Simplon.co :
 
-1. **Topologie réseau & Analyse cyber** - Conception réseau sur Packet Tracer + identification de menaces
-2. **DHCP Multi-sites avec IP Helper** - Configuration DHCP centralisé pour 2 sites distants
-3. **Active Directory (Agence Rue25)** - Installation et configuration Windows Server 2019
-4. **GLPI sur Debian** - Déploiement système de gestion de parc informatique
+1. **[Topologie réseau & Analyse cyber](./simplon-tssr-projects/Partie1_Topologie_Menaces_Cyber.pdf)** - Conception réseau sur Packet Tracer + identification de menaces ([📥 Fichier .pkt](./simplon-tssr-projects/Partie1_Topologie_Reseaux.pkt))
+2. **[DHCP Multi-sites avec IP Helper](./simplon-tssr-projects/Partie2_DHCP_Multi_Sites.pdf)** - Configuration DHCP centralisé pour 2 sites distants ([📥 Fichier .pkt](./simplon-tssr-projects/Partie2_DHCP_Multi_Sites.pkt))
+3. **[Active Directory (Agence Rue25)](./simplon-tssr-projects/Partie3_Active_Directory_Rue25.pdf)** - Installation et configuration Windows Server 2019
+4. **[GLPI sur Debian](./simplon-tssr-projects/Partie4_GLPI_Gestion_Parc.pdf)** - Déploiement système de gestion de parc informatique
+```
 
 📁 **[Accéder au portfolio complet →](./simplon-tssr-projects)**
 
