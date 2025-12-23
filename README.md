@@ -59,9 +59,9 @@ Portfolio de 4 projets techniques réalisés dans le cadre de ma formation TSSR 
 
 ## 🎯 Objectif professionnel
 
-En reconversion vers l'IT et la cybersécurité, je recherche une **alternance TSSR de 18 mois** (début février 2026) pour développer une expertise terrain en administration systèmes, réseaux et cybersécurité.
+En reconversion vers l'IT et la cybersécurité, je recherche une **alternance TSSR de 18 mois** (début mars 2026) pour développer une expertise terrain en administration systèmes, réseaux et cybersécurité.
 
-**Formation :** Technicien Supérieur Systèmes et Réseaux - Simplon.co Lyon (Février 2026 - Août 2027)
+**Formation :** Technicien Supérieur Systèmes et Réseaux - Simplon.co Lyon (Mars 2026 - Octobre 2027)
 
 ---
 
@@ -75,6 +75,6 @@ En reconversion vers l'IT et la cybersécurité, je recherche une **alternance T
 
 <div align="center">
 
-**⭐ En recherche d'alternance TSSR - Lyon - Février 2026 ⭐**
+**⭐ En recherche d'alternance TSSR - Lyon - Mars 2026 ⭐**
 
 </div>
