@@ -212,7 +212,7 @@ Installation du parc informatique de l'agence immobilière Rue25 (9 collaborateu
 ### Programme TSSR - Simplon.co
 
 **Titre visé :** Technicien Supérieur Systèmes et Réseaux (RNCP 37682)  
-**Durée :** 18 mois en alternance (Février 2026 - Août 2027)  
+**Durée :** 18 mois en alternance (Mars 2026 - Octobre 2027)  
 **Rythme :** 3 semaines entreprise / 1 semaine formation  
 
 **Objectif professionnel :** Administrateur Systèmes et Réseaux puis évolution vers Analyste Cybersécurité
@@ -232,7 +232,7 @@ En reconversion professionnelle de l'animation 3D technique vers l'IT et la cybe
 ### 🔗 Liens
 
 - 🌐 **Portfolio complet** : [linktr.ee/Lucas_Pereira33](https://linktr.ee/Lucas_Pereira33)
-- 💼 **LinkedIn** : [lucas-pereira-lyon](https://www.linkedin.com/in/lucas-pereira-lyon)
+- 💼 **LinkedIn** : [lucas-pereira-lyon](https://www.linkedin.com/in/lucas-pereira-807bb9124)
 - 📧 **Email** : pereira.lucas01@gmail.com
 - 💻 **GitHub** : [Lucass-P](https://github.com/Lucass-P)
 
@@ -253,7 +253,7 @@ Ces projets sont réalisés dans un cadre pédagogique et de formation professio
 
 ---
 
-## Remerciements
+## 🙏 Remerciements
 
 - **Simplon.co Lyon** : Christine, Jérôme, Leslie - Pour l'accompagnement et la formation
 - **Communauté Cisco** : Pour les ressources Packet Tracer
@@ -263,9 +263,9 @@ Ces projets sont réalisés dans un cadre pédagogique et de formation professio
 
 <div align="center">
 
-**Si ce portfolio vous intéresse pour une alternance TSSR, n'hésitez pas à me contacter !**
+**⭐ Si ce portfolio vous intéresse pour une alternance TSSR, n'hésitez pas à me contacter ! ⭐**
 
-[📧 pereira.lucas01@gmail.com](mailto:pereira.lucas01@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/lucas-pereira-lyon) | [🌐 Portfolio](https://linktr.ee/Lucas_Pereira33)
+[📧 pereira.lucas01@gmail.com](mailto:pereira.lucas01@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/lucas-pereira-807bb9124) | [🌐 Portfolio](https://linktr.ee/Lucas_Pereira33)
 
 ---
 
