@@ -1,11 +1,4 @@
-# 🎓 Projets Techniques TSSR - Simplon.co
-
-**Formation :** Technicien Supérieur Systèmes et Réseaux (TSSR)  
-**Organisme :** Simplon.co Lyon  
-**Période :** Octobre - Novembre 2025  
-**Réalisé par :** Lucas PEREIRA
-
----
+# 🎓 Projets Techniques TSSR
 
 ## 📋 Vue d'ensemble
 
@@ -26,7 +19,7 @@ Chaque projet comprend :
 - 🔧 **Fichier Packet Tracer (.pkt)** : Configuration réseau testée et validée (Parties 1 et 2)
 
 ```
-simplon-tssr-projects/
+formation-tssr-projects/
 ├── README.md (ce fichier)
 │
 ├── Partie1_Topologie_Menaces_Cyber.pdf
@@ -207,13 +200,7 @@ Installation du parc informatique de l'agence immobilière Rue25 (9 collaborateu
 
 ---
 
-## 📚 Contexte de formation
-
-### Programme TSSR - Simplon.co
-
-**Titre visé :** Technicien Supérieur Systèmes et Réseaux (RNCP 37682)  
-**Durée :** 18 mois en alternance (Mars 2026 - Octobre 2027)  
-**Rythme :** 3 semaines entreprise / 1 semaine formation  
+## 📚 Contexte
 
 **Objectif professionnel :** Administrateur Systèmes et Réseaux puis évolution vers Analyste Cybersécurité
 
@@ -223,7 +210,7 @@ Installation du parc informatique de l'agence immobilière Rue25 (9 collaborateu
 
 **Lucas PEREIRA** - 25 ans - Lyon, France
 
-En reconversion professionnelle de l'animation 3D technique vers l'IT et la cybersécurité, je combine :
+En reconversion professionnelle vers l'IT et la cybersécurité, je combine :
 - 🎓 Solides bases techniques (Python, troubleshooting multi-OS)
 - 🌍 Bilinguisme français/anglais
 - 🏠 Homelab personnel (Active Directory 1040 users, scripts d'automatisation)
@@ -255,7 +242,6 @@ Ces projets sont réalisés dans un cadre pédagogique et de formation professio
 
 ## 🙏 Remerciements
 
-- **Simplon.co Lyon** : Christine, Jérôme, Leslie - Pour l'accompagnement et la formation
 - **Communauté Cisco** : Pour les ressources Packet Tracer
 - **Documentation officielle** : Cisco, Microsoft, Debian, GLPI
 
@@ -269,6 +255,6 @@ Ces projets sont réalisés dans un cadre pédagogique et de formation professio
 
 ---
 
-*Dernière mise à jour : Novembre 2025*
+*Dernière mise à jour : Avril 2026*
 
 </div>
